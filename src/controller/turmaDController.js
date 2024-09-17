@@ -1,4 +1,4 @@
-import * as db from '../repository/turmaRepository.js';
+import * as db from '../repository/turmaDRepository.js';
 
 import { Router } from 'express';
 const endpoints = Router();
